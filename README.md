@@ -1,5 +1,5 @@
 
-# Project Title
+# Music Player
 
 **A Simple Yet Feature-Rich Music Player Application based on Native MediaPlayer.**
 
